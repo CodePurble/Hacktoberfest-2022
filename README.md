@@ -1,4 +1,5 @@
-#  Hacktoberfest-2022🔥
+# Hacktoberfest-2022 X NIE GFG Student Chapter🔥
+
 ![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
 
 <div align="center">
@@ -7,7 +8,6 @@
 <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> 
 <a href="https://github.com/niegfg/Hacktoberfest-2022/tree/main/contributors" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
 </div>
-
 
 ### This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:
 
@@ -20,12 +20,14 @@
 ### This repository is open to all members of the GitHub community. Any member can contribute to this project! :grin:
 
 ## What is Hacktoberfest? :thinking:
+
 A month-long celebration from October 1st to October 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open-source developer community.
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 ## Rules :fire:
-To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2022 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 40,000__ participants who complete the challenge will earn a T-shirt.
+
+To qualify for the **official limited edition Hacktoberfest shirt**, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2022 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the **first 40,000** participants who complete the challenge will earn a T-shirt.
 
 ## Steps to follow :scroll:
 
@@ -37,8 +39,8 @@ flowchart LR
     branch-->Edit[Edit file]
     Edit-->commit[Commit the changes]
     commit -->|Finally|creatpr((Create a Pull Request))
-    
- ```
+
+```
 
 ### 0. Star The Repo :star2:
 
@@ -47,7 +49,6 @@ Star the repo by pressing the topmost-right button to start your wonderful journ
 ### 1. Fork it :fork_and_knife:
 
 You can get your own fork/copy of [HacktoberFest-2022](https://github.com/niegfg/Hacktoberfest-2022) by using the <a href="https://github.com/niegfg/Hacktoberfest-2022/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button.
-
 
 ### 2. Clone it :busts_in_silhouette:
 
@@ -72,7 +73,7 @@ Move to this folder for all other commands.
 
 ### 3. Set it up :arrow_up:
 
-Run the following commands to see that *your local copy* has a reference to *your forked remote repository* in Github :octocat:
+Run the following commands to see that _your local copy_ has a reference to _your forked remote repository_ in Github :octocat:
 
 ```sh
 $ git remote -v
@@ -86,7 +87,7 @@ Now, let's add a reference to the original [Hacktoberfest-2022](https://github.c
 $ git remote add upstream https://github.com/niegfg/Hacktoberfest-2022.git
 ```
 
-> This adds a new remote named ***upstream***.
+> This adds a new remote named **_upstream_**.
 
 See the changes using
 
@@ -97,7 +98,9 @@ origin    https://github.com/Your_Username/Hacktoberfest-2022.git (push)
 upstream  https://github.com/Remote_Username/Hacktoberfest-2022.git (fetch)
 upstream  https://github.com/Remote_Username/Hacktoberfest-2022.git (push)
 ```
+
 `In your case, you will see`
+
 ```sh
 $ git remote -v
 origin    https://github.com/Your_Username/Hacktoberfest-2022.git (fetch)
@@ -109,7 +112,7 @@ upstream  https://github.com/niegfg/Hacktoberfest-2022.git (push)
 ### 4. Sync it :recycle:
 
 Always keep your local copy of the repository updated with the original repository.
-Before making any changes and/or in an appropriate interval, run the following commands *carefully* to update your local repository.
+Before making any changes and/or in an appropriate interval, run the following commands _carefully_ to update your local repository.
 
 ```sh
 # Fetch all remote repositories and delete any deleted remote branches
@@ -171,15 +174,13 @@ $ git push -u origin BranchName
 Finally, go to your repository in the browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
 
-
-
 ## Help Contributing Guides :crown:
 
 We love to have `articles` and `codes` in different languages and the `betterment` of existing ones.
 
 Please discuss it with us first by creating a new issue.
 
-:tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
+:tada: :smiley: **Happy Contributing** :smiley: :confetti_ball: :tada:
 
 ## Contributors:
 
