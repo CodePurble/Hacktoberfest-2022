@@ -114,7 +114,7 @@ upstream  https://github.com/niegfg/Hacktoberfest-2022.git (push)
 Always keep your local copy of the repository updated with the original repository.
 Before making any changes and/or in an appropriate interval, run the following commands _carefully_ to update your local repository.
 
-```sh
+```sh 
 # Fetch all remote repositories and delete any deleted remote branches
 $ git fetch --all --prune
 
