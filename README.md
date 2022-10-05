@@ -11,7 +11,7 @@
 
 ### This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:
 
-:star: Feel free to use this repo to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
+:star: Feel free to use this repo to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing! Don't forget to STAR this repo :D
 
 # Don't forget to add your name in [contributors](https://github.com/niegfg/Hacktoberfest-2022/tree/main/contributors) folder
 
